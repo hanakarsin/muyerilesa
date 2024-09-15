@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kutalinifu.pages.dev/sitemap.xml
